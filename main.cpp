@@ -1,7 +1,5 @@
-#include "iostream"
-#include "raylib.h"
 
-using namespace std;
+#include "raylib.h"
 
 struct Ball {
 	float x, y;
